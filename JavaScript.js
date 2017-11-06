@@ -6,6 +6,6 @@ if (x === 0) {
 
 
 // no constant condition
-if (false) {
+if (x === 0) {
     doSomethingUnfinished();
 }
